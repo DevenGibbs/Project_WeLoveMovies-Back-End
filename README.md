@@ -18,10 +18,11 @@ so that users can gain access to data about movies, theaters, and reviews.
 * Wrote database migrations using Knex's migration tools.
 
 ## :hammer_and_wrench: Tech Stack
-* Language = JavaScript
-* Server = Express
-* Query Builder = Knex
-* Database = PostgreSQL
+* JavaScript
+* Node.js
+* Express
+* Knex
+* PostgreSQL
 
 ## :handshake: Special Thanks
 * Thinkful
